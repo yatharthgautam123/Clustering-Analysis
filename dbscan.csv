@@ -1,0 +1,5 @@
+name,No Preprocessing,No Preprocessing,No Preprocessing,Norm + PCA,Norm + PCA,Norm + PCA,Norm + PCA + TRANS,Norm + PCA + TRANS,Norm + PCA + TRANS,Normalisation,Normalisation,Normalisation,PCA,PCA,PCA,Transformation,Transformation,Transformation
+cluster_size,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5
+Silhouette,-0.5602,-0.5602,-0.5602,-0.2435,-0.2435,-0.2435,-0.2754,-0.2754,-0.2754,-0.2435,-0.2435,-0.2435,-0.5602,-0.5602,-0.5602,-0.4659,-0.4659,-0.4659
+Calinski-Harabasz,19.0544,19.0544,19.0544,10.0541,10.0541,10.0541,9.8477,9.8477,9.8477,10.0541,10.0541,10.0541,19.0544,19.0544,19.0544,6.1981,6.1981,6.1981
+Davies-Bouldin,1.2283,1.2283,1.2283,1.4235,1.4235,1.4235,1.4414,1.4414,1.4414,1.4235,1.4235,1.4235,1.2283,1.2283,1.2283,1.6331,1.6331,1.6331
